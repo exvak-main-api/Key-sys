@@ -8,5 +8,15 @@
     "createdAt": "16/06/2026",
     "expires": "Never",
     "loads": 0
+  },
+  "OverSeek-5hlq-fhrz-5y21-baap": {
+    "hwid": "",
+    "active": true,
+    "redeemed": false,
+    "discordId": "",
+    "plan": "weekly",
+    "createdAt": "16/06/2026",
+    "expires": "23/06/2026 04:13:18",
+    "loads": 0
   }
 }
