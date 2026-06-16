@@ -1,16 +1,1 @@
-{
-  "keys": [
-    {
-      "key": "123",
-      "hwid": "c3457096a65759b0cc8b2b1a1d899d5315bdb7248e87a347ffb8e2b692ec2117",
-      "redeemed": true,
-      "expiration": "2028-06-20"
-    },
-    {
-      "key": "XYZ789",
-      "hwid": "",
-      "redeemed": false,
-      "expiration": "2026-07-01"
-    }
-  ]
-}
+{}
