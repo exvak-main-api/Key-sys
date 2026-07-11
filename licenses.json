@@ -18,5 +18,15 @@
     "createdAt": "16/06/2026",
     "expires": "23/06/2026 04:13:18",
     "loads": 0
+  },
+  "OverSeek-xl80-pgfp-wbc2-2jg9": {
+    "hwid": "",
+    "active": true,
+    "redeemed": false,
+    "discordId": "",
+    "plan": "weekly",
+    "createdAt": "11/07/2026",
+    "expires": "18/07/2026 20:40:40",
+    "loads": 0
   }
 }
