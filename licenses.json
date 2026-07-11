@@ -1,12 +1,12 @@
 {
   "OverSeek-534r-jws6-oqea-up0m": {
-    "hwid": "",
+    "hwid": "c3457096a65759b0cc8b2b1a1d899d5315bdb7248e87a347ffb8e2b692ec2117",
     "active": true,
-    "redeemed": false,
-    "discordId": "",
+    "redeemed": true,
+    "discordId": "1505677353957720087",
     "plan": "weekly",
     "createdAt": "11/07/2026",
-    "expires": "18/07/2026 20:42:23",
+    "expires": "18/07/2026 20:42:45",
     "loads": 0
   }
 }
