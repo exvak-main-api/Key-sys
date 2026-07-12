@@ -1,22 +1,22 @@
 {
-  "OverSeek-2k7i-y6vi-vt0d-xr1n": {
-    "hwid": "f7494033ea024a2d032e2c445feac305763a7777857dc7a6fe0958af85c7701e",
-    "active": true,
-    "redeemed": true,
-    "discordId": "763617505192312865",
-    "plan": "weekly",
-    "createdAt": "11/07/2026",
-    "expires": "18/07/2026 21:58:02",
-    "loads": 0
-  },
-  "OverSeek-zpwu-2d5m-8wfv-y3ev": {
-    "hwid": "",
-    "active": true,
-    "redeemed": true,
-    "discordId": "1505677353957720087",
-    "plan": "lifetime",
-    "createdAt": "12/07/2026",
-    "expires": "Never",
-    "loads": 0
-  }
+    "OverSeek-2k7i-y6vi-vt0d-xr1n": {
+        "hwid": "f7494033ea024a2d032e2c445feac305763a7777857dc7a6fe0958af85c7701e",
+        "active": true,
+        "redeemed": true,
+        "discordId": "763617505192312865",
+        "plan": "weekly",
+        "createdAt": "11/07/2026",
+        "expires": "18/07/2026 21:58:02",
+        "loads": 0
+    },
+    "OverSeek-zpwu-2d5m-8wfv-y3ev": {
+        "hwid": "c3457096a65759b0cc8b2b1a1d899d5315bdb7248e87a347ffb8e2b692ec2117",
+        "active": true,
+        "redeemed": true,
+        "discordId": "1505677353957720087",
+        "plan": "lifetime",
+        "createdAt": "12/07/2026",
+        "expires": "Never",
+        "loads": 1
+    }
 }
