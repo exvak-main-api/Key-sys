@@ -42,11 +42,11 @@
   "OverSeek-qql0-qqk8-jgj4-b5i0": {
     "hwid": "",
     "active": true,
-    "redeemed": false,
-    "discordId": "",
+    "redeemed": true,
+    "discordId": "1505677353957720087",
     "plan": "weekly",
     "createdAt": "12/07/2026",
-    "expires": "19/07/2026 21:09:58",
+    "expires": "19/07/2026 21:10:12",
     "loads": 0
   }
 }
