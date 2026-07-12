@@ -18,5 +18,16 @@
     "createdAt": "11/07/2026",
     "expires": "18/07/2026 21:58:02",
     "loads": 0
+  },
+{
+  "OverSeek-shbr-jwb6-oqea-u60m": {
+    "hwid": "",
+    "active": false,
+    "redeemed": false,
+    "discordId": "",
+    "plan": "weekly",
+    "createdAt": "11/07/2026",
+    "expires": "18/07/2026 20:42:45",
+    "loads": 0
   }
 }
