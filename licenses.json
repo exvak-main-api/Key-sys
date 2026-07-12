@@ -22,8 +22,8 @@
   "OverSeek-zpwu-2d5m-8wfv-y3ev": {
     "hwid": "",
     "active": true,
-    "redeemed": false,
-    "discordId": "",
+    "redeemed": true,
+    "discordId": "1505677353957720087",
     "plan": "lifetime",
     "createdAt": "12/07/2026",
     "expires": "Never",
