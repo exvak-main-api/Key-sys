@@ -38,5 +38,15 @@
     "createdAt": "12/07/2026",
     "expires": "19/07/2026 21:06:09",
     "loads": 0
+  },
+  "OverSeek-qql0-qqk8-jgj4-b5i0": {
+    "hwid": "",
+    "active": true,
+    "redeemed": false,
+    "discordId": "",
+    "plan": "weekly",
+    "createdAt": "12/07/2026",
+    "expires": "19/07/2026 21:09:58",
+    "loads": 0
   }
 }
