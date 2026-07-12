@@ -18,35 +18,5 @@
         "createdAt": "11/07/2026",
         "expires": "18/07/2026 21:58:02",
         "loads": 0
-    },
-    "OverSeek-shbr-jwb6-oqea-u60m": {
-        "hwid": "",
-        "active": false,
-        "redeemed": false,
-        "discordId": "",
-        "plan": "weekly",
-        "createdAt": "11/07/2026",
-        "expires": "18/07/2026 20:42:45",
-        "loads": 0
-    },
-    "OverSeek-umsy-nqer-m82e-tsgu": {
-        "hwid": "",
-        "active": true,
-        "redeemed": false,
-        "discordId": "",
-        "plan": "weekly",
-        "createdAt": "12/07/2026",
-        "expires": "19/07/2026 21:06:09",
-        "loads": 0
-    },
-    "OverSeek-qql0-qqk8-jgj4-b5i0": {
-        "hwid": "c3457096a65759b0cc8b2b1a1d899d5315bdb7248e87a347ffb8e2b692ec2117",
-        "active": true,
-        "redeemed": true,
-        "discordId": "1505677353957720087",
-        "plan": "weekly",
-        "createdAt": "12/07/2026",
-        "expires": "19/07/2026 21:10:12",
-        "loads": 2
     }
 }
