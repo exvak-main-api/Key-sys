@@ -32,11 +32,11 @@
   "OverSeek-abcd-rqw0-sqt3-laed": {
     "hwid": "",
     "active": true,
-    "redeemed": false,
-    "discordId": "",
+    "redeemed": true,
+    "discordId": "1424432708637167779",
     "plan": "weekly",
     "createdAt": "13/07/2026",
-    "expires": "20/07/2026 21:26:42",
+    "expires": "20/07/2026 21:28:37",
     "loads": 0
   }
 }
