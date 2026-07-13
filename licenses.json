@@ -28,5 +28,15 @@
     "createdAt": "13/07/2026",
     "expires": "20/07/2026 20:56:58",
     "loads": 0
+  },
+  "OverSeek-abcd-rqw0-sqt3-laed": {
+    "hwid": "",
+    "active": true,
+    "redeemed": false,
+    "discordId": "",
+    "plan": "weekly",
+    "createdAt": "13/07/2026",
+    "expires": "20/07/2026 21:26:42",
+    "loads": 0
   }
 }
